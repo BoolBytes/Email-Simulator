@@ -1,6 +1,9 @@
 # Email-Simulator
 Simple Email Simulator, that is best executed in a terminal. Made to display newfound competency with OOP and functions. The Email class is designed to represent individual emails, accompanied by functionalities to manage an inbox.
 
+##Disclaimer
+Best ran via Visual Studio Code IDE, other environments may not support the 'clear_terminal()' function.
+
 ## Getting Started 
 Open the file 'email.py'.
 Execute the provided example code to observe the program's functionality.
